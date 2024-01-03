@@ -1,0 +1,41 @@
+/* li{ */
+    /* list-style: none; */
+    /* list-style: georgian; */
+    /* list-style: lower-greek; */
+/* } */
+
+/* li{
+    display: block;
+} */
+
+/* li{
+    display: inline;
+} */
+
+li{
+    /* display: inline-block; */
+    list-style: none;
+    /* display: flex; */
+    font-size: 20px;
+    width: 70px;
+}
+
+ul{
+    display: flex;
+}
+/* background-color: yellow; */
+
+
+
+
+
+
+/* nav > ul > li{
+    list-style-position: inside;
+    background-color: rgba(222, 184, 135, 0.219);
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    list-style-type: "🐭";
+} */
+/* list-style-image: url("mallu.png"); */
