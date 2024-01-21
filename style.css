@@ -1,10 +1,10 @@
 /* li{ */
-    /* list-style: none; */
-    /* list-style: georgian; */
-    /* list-style: lower-greek; */
+/* list-style: none; */
+/* list-style: georgian; */
+/* list-style: lower-greek; */
 /* } */
 
-/* li{
+/* li{cd
     display: block;
 } */
 
@@ -12,23 +12,18 @@
     display: inline;
 } */
 
-li{
-    /* display: inline-block; */
-    list-style: none;
-    /* display: flex; */
-    font-size: 20px;
-    width: 70px;
+li {
+	/* display: inline-block; */
+	list-style: none;
+	/* display: flex; */
+	font-size: 20px;
+	width: 70px;
 }
 
-ul{
-    display: flex;
+ul {
+	display: flex;
 }
 /* background-color: yellow; */
-
-
-
-
-
 
 /* nav > ul > li{
     list-style-position: inside;
